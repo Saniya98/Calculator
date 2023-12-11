@@ -50,3 +50,6 @@ form input.operator{
  font-weight:bolder;
 }
 
+form input.target{
+    color:#e04646;
+}
