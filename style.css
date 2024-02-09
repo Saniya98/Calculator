@@ -46,12 +46,12 @@ form input.equal{
     width: 145px;
 }
 form input.operator{
- color: #454443;
+ color: #898786;
  font-weight:bolder;
 }
 
 form input.target{
-    color:#e04646;
+    color:rgb(238, 121, 121);
 }
 form input.symbol{
     background-color: rgba(248, 130, 33, 0.906);
